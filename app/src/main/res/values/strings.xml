@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+
+    <!--activity_main.xml-->
+    <string name="btn_beer">Escolha a sua cerveja</string>
+
+    <!--activity_find_beer.xml-->
+    <string name="find_beer">Encontre sua cerveja</string>
+    <string name="brands">Nenhuma cerveja selecionada!</string>
+</resources>
