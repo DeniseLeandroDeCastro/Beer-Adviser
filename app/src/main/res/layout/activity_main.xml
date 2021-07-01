@@ -11,8 +11,8 @@
 
     <ImageView
         android:id="@+id/img_beer"
-        android:layout_width="400dp"
-        android:layout_height="400dp"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
         android:layout_gravity="center"
         android:scaleType="centerCrop"
         android:src="@drawable/beer" />
@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:drawablePadding="2dp"
-        android:onClick="onClickChoiceBeer"
+        android:onClick="choiceBeer"
         android:text="@string/btn_beer" />
 
 </LinearLayout>

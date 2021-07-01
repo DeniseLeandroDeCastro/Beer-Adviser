@@ -5,6 +5,13 @@
     <string name="btn_beer">Escolha a sua cerveja</string>
 
     <!--activity_find_beer.xml-->
-    <string name="find_beer">Encontre sua cerveja</string>
+    <string name="btn_find_beer">Encontre sua cerveja</string>
     <string name="brands">Nenhuma cerveja selecionada!</string>
+
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
 </resources>
